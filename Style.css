@@ -1,0 +1,27 @@
+body
+{
+    background-color: cadetblue;
+}
+h2
+{
+color: crimson;
+text-align: center;
+font-weight: normal;
+}
+.middle-container
+{
+    background-color: darkgray;
+}
+.profile
+{
+    background-color: darkgreen;
+}
+hr{
+    height: 20px;
+   background-color: palevioletred ; 
+}
+p
+{
+    color: darkgoldenrod;
+    text-align: center;
+}
